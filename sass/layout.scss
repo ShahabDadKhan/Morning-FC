@@ -1,0 +1,10 @@
+.container-2 {
+  width: 1000px;
+  height: 70vh;
+
+  box-shadow: 0px 2px 17px -5px rgba(#111, 10%);
+
+  @include comp;
+  flex-direction: column;
+  justify-content: center;
+}
